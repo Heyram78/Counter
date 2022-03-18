@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(115, 255, 255);
+}
+main,div,h1{
+    font-size: 50px;
+    
+}
+main{
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+
+
